@@ -1,0 +1,11 @@
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\obj\Debug\netcoreapp2.0\SS2_Homework_Delegate.csprojResolveAssemblyReference.cache
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\obj\Debug\netcoreapp2.0\SS2_Homework_Delegate.csproj.CoreCompileInputs.cache
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\obj\Debug\netcoreapp2.0\SS2_Homework_Delegate.AssemblyInfoInputs.cache
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\obj\Debug\netcoreapp2.0\SS2_Homework_Delegate.AssemblyInfo.cs
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\bin\Debug\netcoreapp2.0\SS2_Homework_Delegate.deps.json
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\bin\Debug\netcoreapp2.0\SS2_Homework_Delegate.runtimeconfig.json
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\bin\Debug\netcoreapp2.0\SS2_Homework_Delegate.runtimeconfig.dev.json
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\bin\Debug\netcoreapp2.0\SS2_Homework_Delegate.dll
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\bin\Debug\netcoreapp2.0\SS2_Homework_Delegate.pdb
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\obj\Debug\netcoreapp2.0\SS2_Homework_Delegate.dll
+c:\users\olexa\source\repos\SS2_Homework_Delegate\SS2_Homework_Delegate\obj\Debug\netcoreapp2.0\SS2_Homework_Delegate.pdb
