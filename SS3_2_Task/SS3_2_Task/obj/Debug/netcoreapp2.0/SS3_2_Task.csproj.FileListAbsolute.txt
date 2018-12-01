@@ -1,0 +1,11 @@
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\obj\Debug\netcoreapp2.0\SS3_2_Task.csprojResolveAssemblyReference.cache
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\obj\Debug\netcoreapp2.0\SS3_2_Task.csproj.CoreCompileInputs.cache
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\obj\Debug\netcoreapp2.0\SS3_2_Task.AssemblyInfoInputs.cache
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\obj\Debug\netcoreapp2.0\SS3_2_Task.AssemblyInfo.cs
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\bin\Debug\netcoreapp2.0\SS3_2_Task.deps.json
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\bin\Debug\netcoreapp2.0\SS3_2_Task.runtimeconfig.json
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\bin\Debug\netcoreapp2.0\SS3_2_Task.runtimeconfig.dev.json
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\bin\Debug\netcoreapp2.0\SS3_2_Task.dll
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\bin\Debug\netcoreapp2.0\SS3_2_Task.pdb
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\obj\Debug\netcoreapp2.0\SS3_2_Task.dll
+C:\Users\olexa\source\repos\SS3_2_Task\SS3_2_Task\obj\Debug\netcoreapp2.0\SS3_2_Task.pdb
